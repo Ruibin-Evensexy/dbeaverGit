@@ -9,8 +9,8 @@
 
 The following software should be installed:
 
-* DBeaver community version 25.2.3
-* Git 2.43 windows
+* [DBeaver community version 25.2.3](https://dbeaver.io/download/)
+* [Git 2.43 windows](https://git-scm.com/install/windows)
 
 ## Steps
 
